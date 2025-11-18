@@ -2,4 +2,4 @@
 
 im ready for jank code!
 
-mainly used in testing (Aura)[https://github.com/AuraNull]!
+mainly used in testing [Aura](https://github.com/AuraNull)!
